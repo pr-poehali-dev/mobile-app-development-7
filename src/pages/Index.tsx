@@ -62,7 +62,7 @@ const Index = () => {
               <Icon name="Briefcase" className="text-primary-foreground" size={24} />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">BizManager</h1>
+              <h1 className="text-xl font-bold text-foreground">Pro Shina</h1>
               <p className="text-xs text-muted-foreground">Управление бизнесом</p>
             </div>
           </div>
